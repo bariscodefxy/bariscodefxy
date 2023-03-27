@@ -1,8 +1,18 @@
 <div align="center">
-<h1>Hi!</h1>
-<p>I'm Web Dev since 2015.</p>
+<h2>Hi!</h2>
+<p>I'm Web Developer since 2015, Full-Stack Developer since 2020. You can reach me for Freelance jobs. There is my accounts.</p>
 
-# Languages/Tools
+<h2>Communication</h2>
+
+[Freelancer.com](https://www.freelancer.com/u/bariscodefxy)
+
+[Fiverr](https://www.fiverr.com/bariscodefx?up_rollout=true)
+
+[Discord: bariscode#1881]
+
+[Telegram: bariscodefx]
+
+## Languages/Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width=32 height=32 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=32 height=32 />
