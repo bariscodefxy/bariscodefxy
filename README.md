@@ -8,7 +8,7 @@
 
 [Fiverr](https://www.fiverr.com/bariscodefx?up_rollout=true)
 
-[Discord: bariscode#1881]
+[Discord: baris#6723]
 
 [Telegram: bariscodefx]
 
