@@ -1,7 +1,4 @@
 <div align="center">
-
-[![Quizmatix](https://quizmatix.com/assets/img/Quizmatix2.png)](https://quizmatix.com)
-  
 <h2>Hi!</h2>
 <p>I'm Web Developer since 2015, Full-Stack Developer since 2020. You can reach me for Freelance jobs. There is my accounts.</p>
 
@@ -54,5 +51,8 @@
 
 
 
+<h1>Quizmatix Bilgi Yarışması</h1>
 
+[![Quizmatix](https://quizmatix.com/assets/img/Quizmatix2.png)](https://quizmatix.com)
 
+</div>
