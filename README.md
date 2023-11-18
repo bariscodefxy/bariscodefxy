@@ -49,10 +49,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=32 height=32 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=32 height=32 />
 
+<h1>Support Me!</h1>
 
+<h2>Donation</h2>
 
-<h1>Quizmatix Bilgi Yarışması</h1>
-
-[![Quizmatix](https://quizmatix.com/assets/img/Quizmatix2.png)](https://quizmatix.com)
+<a href="https://www.buymeacoffee.com/bariscodefx"><img src="https://influencermarketinghub.com/wp-content/uploads/2021/04/BuyMeACoffee.png" /></a>
 
 </div>
