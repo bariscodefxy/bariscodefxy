@@ -1,14 +1,12 @@
 <div align="center">
 <h2>Hi!</h2>
-<p>I'm Web Developer since 2015, Full-Stack Developer since 2020. You can reach me for Freelance jobs. There is my accounts.</p>
+<p>I'm Web Developer since 2015, Full-Stack Developer since 2020.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dracula&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Communication</h2>
 
-[Freelancer.com](https://www.freelancer.com/u/bariscodefxy)
-
-[Fiverr](https://www.fiverr.com/bariscodefx?up_rollout=true)
+[Discord](https://discord.com/users/1070861787412561991)
 
 ## Languages/Tools
 
