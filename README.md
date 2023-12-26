@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bariscodefxy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dracula&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dracula&layout=donut-vertical&hide=C,C%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Communication</h2>
 
