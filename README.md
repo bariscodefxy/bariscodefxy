@@ -2,6 +2,8 @@
 <h2>Hi!</h2>
 <p>I'm Web Developer since 2015, Full-Stack Developer since 2020.</p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bariscodefxy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dracula&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Communication</h2>
