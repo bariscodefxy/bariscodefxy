@@ -1,16 +1,11 @@
 <div align="center">
-<h2>Hi!</h2>
-<p>I'm Web Developer since 2015, Full-Stack Developer since 2020.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bariscodefxy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dracula&layout=donut-vertical&hide=C,C%2B%2B,Javascript)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2>Communication</h2>
-
-[Discord](https://discord.com/users/1070861787412561991)
-
-## Languages/Tools
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=bariscodefxy&theme=dark" height=200 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dark&layout=compact&size_weight=1&count_weight=0&hide=C,Javascript" height=200 />
+<div>
+  
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width=32 height=32 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=32 height=32 />
@@ -49,10 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=32 height=32 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=32 height=32 />
 
-<h1>Support Me!</h1>
+<br>
 
-<h2>Donation</h2>
-
-<a href="https://www.buymeacoffee.com/bariscodefx"><img src="https://influencermarketinghub.com/wp-content/uploads/2021/04/BuyMeACoffee.png" /></a>
-
-</div>
+[Discord](https://discord.com/users/1070861787412561991)
+<a href="https://www.buymeacoffee.com/bariscodefx">Donation</a>
