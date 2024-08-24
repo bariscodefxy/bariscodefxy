@@ -1,9 +1,12 @@
+<h2>bariscodefx - Full Stack Developer</h2>
+
 <div align="center">
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=bariscodefxy&theme=dark" height=200 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dark&layout=compact&size_weight=1&count_weight=0&hide=C,Javascript" height=200 />
-<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake.svg" />
+</picture>
   
 <br>
 
@@ -48,3 +51,5 @@
 
 [Discord](https://discord.com/users/1070861787412561991)
 <a href="https://www.buymeacoffee.com/bariscodefx">Donation</a>
+
+</div>
