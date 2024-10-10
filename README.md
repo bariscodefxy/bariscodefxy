@@ -49,7 +49,6 @@
 
 <br>
 
-[Discord](https://discord.com/users/1070861787412561991)
-<a href="https://www.buymeacoffee.com/bariscodefx">Donation</a>
+[Reach me on Matrix](https://matrix.to/#/@bariscodefx:matrix.bariscodefx.com.tr)
 
 </div>
