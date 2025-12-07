@@ -1,54 +1,51 @@
-<h2>bariscodefx - Full Stack Developer</h2>
-
 <div align="center">
 
+<!-- Header Image with Dynamic Text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=bariscodefx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+
+<br/>
+
+<!-- Introduction -->
+<h3>👋 Hi there!</h3>
+<p>
+  I'm a passionate Full Stack Developer. I love building scalable web applications, exploring new technologies, and contributing to the open-source community.
+</p>
+
+<br/>
+
+<!-- Social & Contact -->
+<a href="https://matrix.to/#/@bariscodefx_1337:matrix.org">
+  <img src="https://img.shields.io/badge/Matrix-Chat%20Now-black?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix" />
+</a>
+
+<br/><br/>
+
+<br/>
+
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake.svg" />
 </picture>
   
-<br>
+<br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=32 height=32 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=32 height=32 />
+<!-- Tech Stack with SkillIcons -->
+<h3>🛠️ Tech Stack & Tools</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,cpp,cs&theme=dark" alt="Languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,symfony,bootstrap,jquery,wordpress&theme=dark" alt="Frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,doctrine&theme=dark" alt="Databases" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,heroku,apache,linux,ubuntu,debian,bash,vim&theme=dark" alt="Tools" />
+<br/>
+<img src="https://skillicons.dev/icons?i=phpstorm,vscode,idea&theme=dark" alt="IDEs" />
 
-<br>
+<br/><br/>
 
-[Reach me on Matrix](https://matrix.to/#/@bariscodefx:matrix.bariscodefx.com.tr)
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
