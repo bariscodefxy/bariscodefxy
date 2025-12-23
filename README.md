@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- Header Image with Dynamic Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=bariscodefx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=bariscodefx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20System%20Admin%20%7C%20Game%20Dev&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
 
 <br/>
 
-<!-- Introduction -->
-<h3>👋 Hi there!</h3>
+<h3>👋 Hello, World!</h3>
 <p>
-  I'm a passionate Full Stack Developer. I love building scalable web applications, exploring new technologies, and contributing to the open-source community.
+  I'm a <b>Software Architect</b> and <b>System Administrator</b> with a passion for low-level logic and high-level design. 
+  <br>
+  I specialize in building scalable web architectures, managing complex Linux infrastructure (Arch/NixOS), and developing game mechanics with performance in mind.
 </p>
 
 <br/>
 
-<!-- Social & Contact -->
 <a href="https://matrix.to/#/@bariscodefx_1337:matrix.org">
   <img src="https://img.shields.io/badge/Matrix-Chat%20Now-black?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix" />
 </a>
@@ -22,7 +21,6 @@
 
 <br/>
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bariscodefxy/bariscodefxy/output/github-contribution-grid-snake.svg" />
@@ -31,21 +29,27 @@
   
 <br/><br/>
 
-<!-- Tech Stack with SkillIcons -->
-<h3>🛠️ Tech Stack & Tools</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,py,c,cpp,cs&theme=dark" alt="Languages" />
+<h3>🐧 System & Infrastructure</h3>
+<img src="https://skillicons.dev/icons?i=linux,arch,nixos,debian,bash,vim,docker,nginx,git,github&theme=dark" alt="System Tools" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,symfony,bootstrap,jquery,wordpress&theme=dark" alt="Frameworks" />
+
+<h3>💻 Languages (Systems & Web)</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,php,py,js,html,css&theme=dark" alt="Languages" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,doctrine&theme=dark" alt="Databases" />
+
+<h3>🛠️ Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=symfony,express,nodejs,bootstrap,jquery,react&theme=dark" alt="Frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,heroku,apache,linux,ubuntu,debian,bash,vim&theme=dark" alt="Tools" />
+
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis&theme=dark" alt="Databases" />
 <br/>
-<img src="https://skillicons.dev/icons?i=phpstorm,vscode,idea&theme=dark" alt="IDEs" />
+
+<h3>IDE & Environment</h3>
+<img src="https://skillicons.dev/icons?i=phpstorm,vscode,idea,unity,godot&theme=dark" alt="IDEs" />
 
 <br/><br/>
 
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
